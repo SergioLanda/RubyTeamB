@@ -2,6 +2,6 @@ app:
   url: https://www.pivotaltracker.com/services/v5/
   time_out: 180
   account:
-    token: 970388c9c861f10b41a6463a4bcc4254
-    name: lourdesvillca
+    token: ba62a28cd4eee4f0136d75e474400ce0
+    name: angelavaldez2
     password: pivotal01
